@@ -9,3 +9,9 @@ dddddd
 z czym do ludzi ?
 </p>
 </div>
+
+<<<<<<< HEAD
+fifififif
+=======
+jjjjjjjjjjjjjjjjj
+>>>>>>> master
